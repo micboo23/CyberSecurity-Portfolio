@@ -1,7 +1,9 @@
 # CyberSecurity-Portfolio
 Portfolio of Projects for CyberSecurity
 # Hello, I'm Garry Martin
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/garry-martin-99267085">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
  Introduction
 
