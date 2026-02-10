@@ -52,6 +52,9 @@ My journey in  has led me to develop a passion for cybersecurity, and I am now e
 </div>
 
 ## Certifications
+
+| Google | ![Google](https://img.shields.io/badge/Google-Certification-blue?logo=google&logoColor=white) | [Verify Here](https://coursera.org/verify/your-id) |
+
 <img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://coursera.org/share/242fae1bbdb4dbbe65c39c4227a1db44)" />[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
  [
